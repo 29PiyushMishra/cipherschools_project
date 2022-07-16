@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cipherschools_project/static/css/main.a9fd7b33.chunk.css",
+    "main.js": "/cipherschools_project/static/js/main.dc42b2a5.chunk.js",
+    "main.js.map": "/cipherschools_project/static/js/main.dc42b2a5.chunk.js.map",
+    "runtime-main.js": "/cipherschools_project/static/js/runtime-main.bc20b4e9.js",
+    "runtime-main.js.map": "/cipherschools_project/static/js/runtime-main.bc20b4e9.js.map",
+    "static/js/2.5e661626.chunk.js": "/cipherschools_project/static/js/2.5e661626.chunk.js",
+    "static/js/2.5e661626.chunk.js.map": "/cipherschools_project/static/js/2.5e661626.chunk.js.map",
+    "index.html": "/cipherschools_project/index.html",
+    "precache-manifest.f3ddafbf88cf617f03bc0c6e2a21e905.js": "/cipherschools_project/precache-manifest.f3ddafbf88cf617f03bc0c6e2a21e905.js",
+    "service-worker.js": "/cipherschools_project/service-worker.js",
+    "static/css/main.a9fd7b33.chunk.css.map": "/cipherschools_project/static/css/main.a9fd7b33.chunk.css.map",
+    "static/js/2.5e661626.chunk.js.LICENSE.txt": "/cipherschools_project/static/js/2.5e661626.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc20b4e9.js",
+    "static/js/2.5e661626.chunk.js",
+    "static/css/main.a9fd7b33.chunk.css",
+    "static/js/main.dc42b2a5.chunk.js"
+  ]
+}
